@@ -1,0 +1,50 @@
+{
+    "keyboard_name": "fullsplit",
+    "url": "https://github.com/elsidoi/fullsplit",
+    "maintainer": "elsidoi <elsidoi19@gmail.com>",
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label":"ESC", "x":0, "y":0.61}, 
+                {"label":"F1", "x":1, "y":0.63}, 
+                {"label":"F2", "x":2, "y":0.38}, 
+                {"label":"F3", "x":3, "y":0.25}, 
+                {"label":"F4", "x":4, "y":0.38}, 
+                {"label":"F5", "x":5, "y":0.5}, 
+
+                {"label":"~", "x":0, "y":1.63}, 
+                {"label":"1", "x":1, "y":1.63}, 
+                {"label":"2", "x":2, "y":1.38}, 
+                {"label":"3", "x":3, "y":1.25}, 
+                {"label":"4", "x":4, "y":1.38}, 
+                {"label":"5", "x":5, "y":1.5}, 
+
+                {"label":"Tab", "x":0, "y":2.63}, 
+                {"label":"Q", "x":1, "y":2.63}, 
+                {"label":"W", "x":2, "y":2.38}, 
+                {"label":"E", "x":3, "y":2.25}, 
+                {"label":"R", "x":4, "y":2.38}, 
+                {"label":"T", "x":5, "y":2.5}, 
+
+                {"label":"Raise", "x":0, "y":3.63}, 
+                {"label":"A", "x":1, "y":3.63}, 
+                {"label":"S", "x":2, "y":3.38}, 
+                {"label":"D", "x":3, "y":3.25}, 
+                {"label":"F", "x":4, "y":3.38}, 
+                {"label":"G", "x":5, "y":3.5}, 
+
+                {"label":"Shift", "x":0, "y":4.63}, 
+                {"label":"Z", "x":1, "y":4.63}, 
+                {"label":"X", "x":2, "y":4.38}, 
+                {"label":"C", "x":3, "y":4.25}, 
+                {"label":"V", "x":4, "y":4.38}, 
+                {"label":"B", "x":5, "y":4.5}, 
+
+                {"label":"Ctrl", "x":3.5, "y":5.49}, 
+                {"label":"Lower", "x":4.5, "y":5.61}, 
+                {"label":"", "x":1.1, "y":12.49}, 
+                {"label":"Space", "x":3.5, "y":18.29}
+            ]
+        }
+    }
+}
