@@ -16,7 +16,15 @@
 
 #pragma once
 
-#define MATRIX_COL_PINS \
-    { B4, B5, B6, B7, B8, B9 }
-#define MATRIX_ROW_PINS \
-    { A0, A1, A2, A3, A4, A5 }
+#define MATRIX_COL_PINS { A1, A2, A3, A4, A5, A6, A7 }
+#define MATRIX_ROW_PINS { B8, B7, B6, B5, B4, B3 }
+#define MATRIX_COL_PINS_RIGHT { A10, A9, A8, B15, B14, B13, B12 }
+#define MATRIX_ROW_PINS_RIGHT { B3, B4, B5, B6, B7, B8 }
+
+
+/*
+ * Split Keyboard specific options, make sure you have 'SPLIT_KEYBOARD = yes' in your rules.mk, and define SOFT_SERIAL_PIN.
+ */
+#define SPLIT_HAND_PIN B11
+#define SOFT_SERIAL_PIN B9
+

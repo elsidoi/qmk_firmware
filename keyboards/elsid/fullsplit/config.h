@@ -17,18 +17,18 @@
 
 #include "config_common.h"
 
+/* USB Device descriptor parameter */
 #define VENDOR_ID 0x4454
 #define PRODUCT_ID 0x5444
 #define DEVICE_VER 0x0001
+#define MANUFACTURER elsid
+#define PRODUCT sfullsplit
 
-#define MANUFACTURER "elsid"
-#define PRODUCT "fullsplit"
-
-#define MATRIX_ROWS 6
-#define MATRIX_COLS 6
+/* key matrix size */
+#define MATRIX_ROWS 12
+#define MATRIX_COLS 7
 #define DIODE_DIRECTION COL2ROW
 
-#define SPLIT_USB_DETECT
 
 /* Set 0 if debouncing isn't needed */
 #define DEBOUNCE 1
